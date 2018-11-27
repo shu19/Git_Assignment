@@ -1,0 +1,30 @@
+git init
+
+git status
+
+git mv -f FirstFile.txt  FirstFile_New.txt | Rename File
+
+git commit -am "commit message" | Adds files and commit all the changes
+
+git diff master..new_branch | Difference between the branches
+
+git checkout new_branch\
+
+git merge new_branch
+
+git branch --merged
+
+git log | Display all commits with checksum
+
+git branch | Display all branches
+
+git checkout master
+
+git commit -am "Adds login Feature"
+
+git commit -am "Adds OAuth Feature"
+
+git merge new_branch
+
+
+
